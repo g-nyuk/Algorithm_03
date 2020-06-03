@@ -1,14 +1,14 @@
 # Open Source SW Project(Deep Learning)
 
-# A. Model 1
+# A. Model 1(Test Accuracy : 97.44%)
 1. code of Model 1
-![1](https://user-images.githubusercontent.com/37995001/83545343-093e8580-a53a-11ea-8254-3b516201b6be.PNG)
+![1](https://user-images.githubusercontent.com/37995001/83601514-b69db180-a5ab-11ea-8efc-1bb420497a8e.PNG)
 
 2. Training with Training loss 
 ![2](https://user-images.githubusercontent.com/37995001/83601162-016af980-a5ab-11ea-848b-f2731fdbf265.PNG)
 
 3. Test Accuracy
-![2](https://user-images.githubusercontent.com/37995001/83601162-016af980-a5ab-11ea-848b-f2731fdbf265.PNG)
+![3](https://user-images.githubusercontent.com/37995001/83601314-4bec7600-a5ab-11ea-942b-913250530d8b.PNG)
 
 4. Images and Corresponding probability that predicted Right
 ![4](https://user-images.githubusercontent.com/37995001/83546130-2e7fc380-a53b-11ea-8831-6840e50c1758.PNG)
@@ -17,9 +17,9 @@
 ![5](https://user-images.githubusercontent.com/37995001/83545401-1a879200-a53a-11ea-89dd-8f1e9acfdefd.PNG)
 
 
-# B. Model 2
+# B. Model 2(Test Accuracy : 98.5%)
 1. code of Mode2
-![1](https://user-images.githubusercontent.com/37995001/83546280-65ee7000-a53b-11ea-9ac5-fd3f9d1418e5.PNG)
+![1](https://user-images.githubusercontent.com/37995001/83601542-be5d5600-a5ab-11ea-8e6a-6a61f9b547b2.PNG)
 
 2. Training with Training loss 
 ![2](https://user-images.githubusercontent.com/37995001/83601200-16e02380-a5ab-11ea-91b0-570db0659b22.PNG)
@@ -34,7 +34,7 @@
 ![5](https://user-images.githubusercontent.com/37995001/83546321-70a90500-a53b-11ea-96da-7837157c5b7f.PNG)
 
 
-# C. Model 3
+# C. Model 3 (Test Accuracy : 98.69%)
 1. code of Mode3
 ![1](https://user-images.githubusercontent.com/37995001/83546497-b665cd80-a53b-11ea-8662-85db15ad73b7.PNG)
 
